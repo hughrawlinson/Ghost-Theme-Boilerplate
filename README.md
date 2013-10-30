@@ -1,6 +1,6 @@
-# Casper
+# Ghost Boilerplate
 
-Boilerplate theme for [Ghost](http://github.com/tryghost/ghost/).
+Boilerplate theme for [Ghost](http://github.com/tryghost/ghost/). Uses Bootstrap, Font Awesome, Modernizr, and jQuery.
 
 ## Copyright & License
 
